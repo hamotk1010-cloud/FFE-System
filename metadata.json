@@ -1,0 +1,6 @@
+{
+  "name": "FFE Workplace Tracking System",
+  "description": "Office Furniture, Fixtures, and Equipment tracking system with employee directory, QR code generation, camera scanning, and asset assignments.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
